@@ -1,1 +1,1 @@
-# lector
+# Reconocimiento Óptico de Caracteres
